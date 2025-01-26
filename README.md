@@ -108,16 +108,6 @@ export default ShoppingCart;
 
 ---
 
-## Expected Output Screenshots
-
-### Part 1: Simple Component Output
-![Simple Component Output](./screenshots/simple-component-output.png)
-
-### Part 2: Nested Components Output
-![Nested Components Output](./screenshots/nested-components-output.png)
-
----
-
 ## Notes
 - Ensure that your CSS styles are appropriately defined to enhance the visual appearance of the components (optional).
 - If you encounter errors, double-check the import paths and syntax.
